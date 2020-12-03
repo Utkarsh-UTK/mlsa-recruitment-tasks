@@ -7,7 +7,7 @@ int main()
     int a,b,i=2;
     float c,d;
     cin >> a >> b;
-    while (i<(b+1)/2)
+    while (i<b)
     {
         c=b%i;
         if (c!=0)
